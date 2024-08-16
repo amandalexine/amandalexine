@@ -2,11 +2,13 @@
  ```python
  class WhoAmI:
  	user = 'Amanda-Lexine Sunga'
+		pronouns = 'she/her/hers'
 		current_status = 'Computer Engineering Student @ Tufts'
 		hobbies = [
 				'Music',
 				'Crafting',
-				'Reading'
+				'Reading',
+				'Baking Oreo Cheesecake Cookies',
 				'Watching every single piece of work by Kyle Mooney'
 			]
 	
