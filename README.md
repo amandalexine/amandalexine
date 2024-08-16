@@ -21,6 +21,7 @@
 				
 	
 	def getCity():
+		# Technically, I'm in Medford/Somerville but...
 		return Boston_Massachusetts()
 	
 	def Ambitions():
