@@ -1,4 +1,4 @@
- ## Who Am I? 🧋
+ ## Welcome to my GitHub Page! 🧋
  ```python
  class WhoAmI:
  	user = 'Amanda-Lexine Sunga'
