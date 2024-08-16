@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @amandalexine
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I can play 7 instruments!
+ ## Who Am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Amanda-Lexine Sunga'
+		current_status = 'Computer Engineering Student @ Tufts'
+		hobbies = [
+				'Music',
+				'Crafting',
+				'Reading'
+				'Watching every single piece of work by Kyle Mooney'
+			]
+	
+	def getCity():
+		return Boston_Massachusetts()
+	
+	def Ambitions():
+		MasterTheBass()
+		WriteMoreSongs()
+		ReachTheTopShelfOfTheGroceryStore()
+	
+ ```
 
 <!---
 amandalexine/amandalexine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
