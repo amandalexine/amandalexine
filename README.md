@@ -4,13 +4,21 @@
  	user = 'Amanda-Lexine Sunga'
 		pronouns = 'she/her/hers'
 		current_status = 'Computer Engineering Student @ Tufts'
-		hobbies = [
+		hobbies =  [
 				'Music',
 				'Crafting',
 				'Reading',
 				'Baking Oreo Cheesecake Cookies',
 				'Watching every single piece of work by Kyle Mooney'
-			]
+			    ]
+		interests = [
+				'Computer Architecture',
+				'Human-Robot Interaction',
+				'Cognitive Psychology',
+				'Machine Learning',
+				'Music and Sound Production'
+	                    ]
+				
 	
 	def getCity():
 		return Boston_Massachusetts()
