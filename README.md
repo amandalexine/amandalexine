@@ -3,7 +3,6 @@
  class WhoAmI:
  	user = 'Amanda-Lexine Sunga'
 		pronouns = 'she/her/hers'
-		big_three = ('Libra', 'Virgo', 'Sagittarius')
 		current_status = 'Computer Engineering Student @ Tufts'
 		hobbies =  [
 				'Music',
@@ -13,6 +12,8 @@
 				'Watching every single piece of work by Kyle Mooney'
 			    ]
 		interests = [
+				'Embedded Systems',
+				'Robotics',
 				'Computer Architecture',
 				'Human-Robot Interaction',
 				'Cognitive Psychology',
@@ -28,6 +29,7 @@
 	def Ambitions():
 		MasterTheBass()
 		WriteMoreSongs()
+		TravelThroughEuropeAndSoutheastAsia()
 		ReachTheTopShelfOfTheGroceryStore()
 	
  ```
