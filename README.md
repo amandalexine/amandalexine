@@ -3,12 +3,13 @@
  class WhoAmI:
  	user = 'Amanda-Lexine Sunga'
 		pronouns = 'she/her/hers'
-		current_status = 'Computer Engineering Student @ Tufts'
+		current_status = 'Computer Engineering Student @ Tufts/Intern @ Locus Robotics'
 		hobbies =  [
 				'Music',
 				'Crafting',
 				'Reading',
 				'Baking Oreo Cheesecake Cookies',
+				'Memorizing Romcoms',
 				'Watching every single piece of work by Kyle Mooney'
 			    ]
 		interests = [
