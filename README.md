@@ -21,9 +21,20 @@
 				'Machine Learning',
 				'Music and Sound Production'
 			    ]
-		languages = ['C++', 'C/Embedded C', 'Python/MicroPython', 'VHDL', 'Assembly', 'Java', 'JavaScript', 'MATLAB', 'LaTeX', 'HTML/CSS']
-				
-	
+		languages = [
+				'C++',
+				'C/Embedded C',
+				'Python/MicroPython',
+				'VHDL',
+				'Assembly',
+				'Java',
+				'JavaScript',
+				'MATLAB',
+				'LaTeX',
+				'HTML/CSS'
+				]
+
+
 	def getCity():
 		# Technically, I'm in Medford/Somerville but...
 		return Boston_Massachusetts()
