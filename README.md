@@ -21,6 +21,7 @@
 				'Machine Learning',
 				'Music and Sound Production'
 			    ]
+		languages = ['C++', 'C/Embedded C', 'Python/MicroPython', 'VHDL', 'Assembly', 'Java', 'JavaScript', 'MATLAB', 'LaTeX', 'HTML/CSS']
 				
 	
 	def getCity():
