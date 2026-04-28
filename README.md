@@ -3,7 +3,7 @@
  class WhoAmI:
  	user = 'Amanda-Lexine Sunga'
 		pronouns = 'she/her/hers'
-		current_status = 'Computer Engineering Student @ Tufts/Intern @ Locus Robotics'
+		current_status = 'Computer Engineering Student @ Tufts/Incoming @ Boston Dynamics'
 		hobbies =  [
 				'Music',
 				'Crafting',
